@@ -1,0 +1,10 @@
+https://www.w3schools.com/python/ref_func_super.asp
+https://docs.python.org/3/library/configparser.html
+https://www.w3schools.com/python/gloss_python_global_variables.asp
+https://www.gormanalysis.com/blog/connecting-to-aws-s3-with-python/
+https://boto3.amazonaws.com/v1/documentation/api/latest/reference/services/dax.html#DAX.Client.describe_clusters
+https://www.geeksforgeeks.org/progress-bars-in-python/
+https://progressbar-2.readthedocs.io/en/latest/examples.html
+https://pythonguides.com/python-exit-command/
+https://www.w3schools.com/python/gloss_python_raise.asp
+https://stackoverflow.com/questions/34309151/get-list-clusters-amazon-redshift-using-python-with-boto3
